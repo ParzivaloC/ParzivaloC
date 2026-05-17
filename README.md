@@ -34,5 +34,3 @@ I am a passionate developer focused on building scalable web applications, desig
 ## ⚡ Beyond Coding
 - When I'm not tracking bugs or refactoring architecture, you can find me pushing limits in weightlifting and tracking performance gains. 🏋️‍♂️
 
-
-[![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=ParzivaloC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
