@@ -32,5 +32,5 @@ I am a passionate developer focused on building scalable web applications, desig
 ---
 
 ## ⚡ Beyond Coding
-- When I'm not tracking bugs or refactoring architecture, you can find me pushing limits in weightlifting and tracking performance gains. 🏋️‍♂️
+- When I'm not tracking bugs or refactoring architecture, you can find me pushing limits in weightlifting , also try to broaden my horizons and learn new things. 🏋️‍♂️
 
